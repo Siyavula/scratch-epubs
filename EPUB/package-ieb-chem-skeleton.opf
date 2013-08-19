@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifer="uid">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+          <dc:identifier id="uid">siyavula.com.dummy-book-repo.1.0</dc:identifier>
+          <dc:title>Siyavula Education: Dummy Book</dc:title>
+          <dc:creator>Siyavula Education</dc:creator>
+          <dc:language>en</dc:language>
+          <meta property="dcterms:modified">Mon Aug 19 13:39:11 2013 GMT</meta>
+       </metadata><manifest>
+<item id="chapter-0" href="xhtml/ieb-chem-skeleton/01-QuantitativeChemistry.cnxmlplus.html" media-type="application/xhtml+xml"/>
+<item id="chapter-1" href="xhtml/ieb-chem-skeleton/02-ChemicalBonding.cnxmlplus.html" media-type="application/xhtml+xml"/>
+<item id="chapter-2" href="xhtml/ieb-chem-skeleton/03-EnergyChangeAndRatesOfReactions.cnxmlplus.html" media-type="application/xhtml+xml"/>
+<item id="chapter-3" href="xhtml/ieb-chem-skeleton/04-ChemicalEquilibrium.cnxmlplus.html" media-type="application/xhtml+xml"/>
+<item id="chapter-4" href="xhtml/ieb-chem-skeleton/05-AcidsAndBases.cnxmlplus.html" media-type="application/xhtml+xml"/>
+<item id="chapter-5" href="xhtml/ieb-chem-skeleton/06-Electrochemistry.cnxmlplus.html" media-type="application/xhtml+xml"/>
+<item id="chapter-6" href="xhtml/ieb-chem-skeleton/07-OrganicChemistry.cnxmlplus.html" media-type="application/xhtml+xml"/>
+<item id="nav" href="xhtml/ieb-chem-skeleton/ieb-chem-skeleton.nav.html" media-type="application/xhtml+xml" properties="nav"/>
+</manifest><spine>
+<itemref idref="chapter-0"/>
+<itemref idref="chapter-1"/>
+<itemref idref="chapter-2"/>
+<itemref idref="chapter-3"/>
+<itemref idref="chapter-4"/>
+<itemref idref="chapter-5"/>
+<itemref idref="chapter-6"/>
+</spine></package>
